@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Derby (Embedded) - TestDB" uuid="3f870fde-8992-4274-8f4a-7f9eb46fbad2">
+      <secret-storage>master_key</secret-storage>
+      <schema-pattern>*</schema-pattern>
+      <default-schemas>*.APP</default-schemas>
+    </data-source>
+    <data-source name="Derby (Embedded) - TestDB [2]" uuid="8a9350c9-226e-49c9-9a9c-63a961af3e69">
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+    </data-source>
+  </component>
+</project>

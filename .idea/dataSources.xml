@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="135776030">
+    <data-source source="LOCAL" name="Derby (Embedded) - TestDB" uuid="3f870fde-8992-4274-8f4a-7f9eb46fbad2">
+      <driver-ref>derby.embedded</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.apache.derby.jdbc.EmbeddedDriver</jdbc-driver>
+      <jdbc-url>jdbc:derby:$USER_HOME$/IdeaProjects/TestDB</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Derby (Embedded) - TestDB [2]" uuid="8a9350c9-226e-49c9-9a9c-63a961af3e69">
+      <driver-ref>derby.embedded</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.apache.derby.jdbc.EmbeddedDriver</jdbc-driver>
+      <jdbc-url>jdbc:derby:$PROJECT_DIR$/../ProjectDiagram\..\..\..\IdeaProjects\TestDB</jdbc-url>
+    </data-source>
+  </component>
+</project>
